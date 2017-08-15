@@ -38,7 +38,7 @@ The instructions below are not going to show you how to create a Apple Dev Accou
 9. Open up the index.html file you downloaded earlier
  - Change the ending to where your plist is located on your website itms-services://?action=download-manifest&url=https://example.com/exampleapp.plist
 
-10. Upload the “index.html”, “example.ipa”, and “example.plsit” to your website
+10. Upload the “index.html”, “example.ipa”, and “example.plist” to your website
 
 11. Open the index.html page on your iDevice.
 
