@@ -2,7 +2,7 @@
 
 Dont forget to request access to my private IPA Signing Server
 https://www.ss.wmaystech.com
-(We dont get revoked ;) )
+(We dont get revoked ;) $10/year )
 
 Hello, I am going to show you how to create an IPA Signing Service using an Apple Developer Account ($99/year) and your website.
 
