@@ -44,4 +44,6 @@ The instructions below are not going to show you how to create a Apple Dev Accou
 
 12. Click download and the app will be downloaded to your device.
 
+Check ERROR FIXES file for possible fixes if they apps are not working
+
 **Every time you add a device to your account you have to redo steps 7-8 and edit the profile to add the devices then re download the profile
