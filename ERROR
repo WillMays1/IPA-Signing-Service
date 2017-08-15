@@ -1,0 +1,5 @@
+The following are possible error fixes.
+
+Cannot connect to *yourwebsite* -> you are not pointing the html file to the correct .plist
+
+Cannot download app at this time (pops up on homescreen then gives error) -> your .plist is not pointing to the correct .ipa or the ipa is not signed with the correct udid
